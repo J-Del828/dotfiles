@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = j.delgado828@gmail.com
+	name = John Delgado
